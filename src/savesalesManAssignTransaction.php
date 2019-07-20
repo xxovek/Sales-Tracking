@@ -6,6 +6,12 @@ $Emp_id     = $_REQUEST['routeassignid'];
 $admin_id   = $_SESSION['admin_id'];
 $lat        = $_REQUEST['latitude'];
 $long       = $_REQUEST['longitude'];
+$geolocation =$lat.','.$long ;
+// $request = 'http://maps.googleapis.com/maps/api/geocode/json?latlng='.$geolocation.'&sensor=false';
+$request = 'https://maps.googleapis.com/maps/api/geocode/json?latlng='.$geolocation.'&sensor=false&key=AIzaSyDh2sgKfwvLeTx36tIEj81_BVEC6hv0JkA';
+$file_contents = file_get_contents($request);
+$json_decode = json_decode($file_contents);
+$address = $json_decode->results[0]->formatted_address;
 $shop = 0;
 if(isset($_REQUEST['shopid'])){
   $shopid       = $_REQUEST['shopid'];
@@ -30,7 +36,7 @@ else {
 }
 
 
-$sql = "INSERT INTO salesManAssignTransaction(salesAssignId,latitude,longitude,shopid,flag) VALUES ($Emp_id,'$lat','$long','$shop','$flag')";
+$sql = "INSERT INTO salesManAssignTransaction(salesAssignId,latitude,longitude,shopid,flag,address) VALUES ($Emp_id,'$lat','$long','$shop','$flag','$address')";
 if(mysqli_query($con,$sql) or die(mysqli_error($con))){
     $response['true'] = 'true';
 

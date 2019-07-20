@@ -97,19 +97,19 @@ table.table td:nth-child(6):hover{
 															<table class="table table-bordered table-striped mb-none" style="width:100%;" id="datatable-default1">
 																<thead>
 																	<tr>
+                                    		<th class="text-center">Sr No</th>
+																		<th class="text-center">Location </th>
+                                    <!-- <th class="text-center">Time </th> -->
 
-																		<th class="text-center">Route Name</th>
-																		<th class="text-center" >Date</th>
-																		<!-- <th class="text-center">Mobile</th>
-																		<th class="text-center">Status</th>
-																		<th class="text-center" >Address</th> -->
 																		<th class="text-center">Action</th>
 																	</tr>
 																</thead>
-																<tbody id="routeinfodata"></tbody>
+																<tbody id="trackrouteinfodata"></tbody>
 															</table>
 														</div>
 													</section>
+                          <div id="map"></div>
+
 
 					<!-- end: page -->
 				</section>
@@ -154,28 +154,33 @@ table.table td:nth-child(6):hover{
 		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDh2sgKfwvLeTx36tIEj81_BVEC6hv0JkA" type="text/javascript"></script>
 
 		<script>
-    display_routes();
+     display_routes();
+
+
+
+
     function display_routes()
     {
         $.ajax({
             type: "POST",
            dataType:"json",
-            url: "../src/TrackReportData",
-              data: {salesId:<?php echo $_REQUEST['id']; ?>},
+            url: "../src/routeTrackReport",
+              data: {assignsalesId:<?php echo $_REQUEST['assignid']; ?>},
         }).done(function(data) {
          if(!(data)){
-           $("#routeinfodata").html('<tr ><td></td><td></td><td></td><td></td><td  style="color:black;">No data available in table</td></tr>');
+           $("#trackrouteinfodata").html('<tr ><td></td><td></td><td></td><td></td><td  style="color:black;">No data available in table</td></tr>');
          }
          else
          {
             var count = Object.keys(data).length;
+
             for (var i = 0; i < count; i++)
              {
 
+                    // geocodeLatLng(data[i].latitude,data[i].longitude);
 
-
-               $('#routeinfodata').append('<tr><td class=" text-center">' + data[i].RouteName +
-               '</td><td class=" text-center">' + data[i].AssignDate + '</td><td class="actions center"><a title="Assign Work" name="submit"  onclick="showroutedetail(' + data[i].assignId + ')" ><i class="fa fa-thumbs-up"></i></a></td></tr>');
+               $('#trackrouteinfodata').append('<tr><td class=" text-center">' +(i+1)+'<td class=" text-center">' + data[i].address +
+               '</td><td class=" text-center">' + data[i].created_at + '</td></tr>');
             }
            }
 
@@ -197,9 +202,7 @@ table.table td:nth-child(6):hover{
             alert('Request Failed');
       })
     }
-    function showroutedetail(AssignId){
-      window.location.href = 'routeTrackReport.php?assignid='+AssignId;
-    }
+
 		</script>
 	</body>
 </html>
