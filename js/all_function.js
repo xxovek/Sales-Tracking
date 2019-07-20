@@ -83,16 +83,6 @@ function display_salesman()
             var sales_id = parseInt(data[i].Emp_id);
             //alert(data[i].profilePic);
 						var uploadimg = '<img src='+data[i].profilePic+' class="img-circle" alt="user profile" width="40" height="30">';
-						// $('#profileimg').attr('src', e.target.result).width(100).height(100);
-					
-				    //      var uploadimg = '<img src="" id="picId'+i+'" class="img-circle" alt="profile Image" />';
-		      //       var reader = new FileReader();
-		      //       reader.onload = function (e) {
-								// // 	 $('#profileimg').attr('src', e.target.result).width(100).height(100);
-								// 	  $('#picId'+i).attr('src', e.target.data[i].profilePic).width(40).height(30);
-							 //};
-                           
-                            
 					  $('#salesmaninfodata').append('<tr><td class="text-center">' + uploadimg + '</td><td class="text-center">' + data[i].fullname + '</td><td class="text-center">' + data[i].email + '</td><td class="text-center">'+ data[i].mobile +'</td><td class=" text-center">' + data[i].status +
 						'</td><td class=" text-center">' + data[i].address + '</td><td class="actions center"><a data-toggle="collapse" title="Edit Salesman Information" data-target="#hidecustomerfield"  onclick="updatesalesinfo(' + sales_id + ');"><i class="fa fa-edit"></i></a><a  title="Remove Salesman" name="submit"  id="' + sales_id + '" onClick="removesalesman(' + sales_id + ');" ><i class="fa fa-trash-o"></i></a><a title="Assign Work" name="submit"  id="' + sales_id + '" onClick="Assignwork(' + sales_id + ');" ><i class="fa fa-thumbs-up"></i></a></td></tr>');
         }
@@ -112,8 +102,6 @@ function display_salesman()
                }
             ]
        });
-
-
     }).fail(function(jqXHR, textStatus) {
         alert('Request Failed');
   })
