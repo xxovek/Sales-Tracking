@@ -1,0 +1,218 @@
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:20:31 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:21:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:24:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:16 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:26:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 47
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 50
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 51
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 53
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 54
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:27:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 69
+[28-Feb-2019 12:28:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:28:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:29:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:29:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:31:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:31:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:32:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:32:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:36:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:36:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:40:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:40:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:41:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:41:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:45:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:45:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:47:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:47:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:48:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:48:33 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:51:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:51:25 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:53:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:53:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:54:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:54:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:57:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:57:12 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:59:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 12:59:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:01:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:01:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:04:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:04:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:05:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:05:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:06:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:06:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:08:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:08:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:10:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:10:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:11:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:11:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:13:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:13:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:15:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:15:29 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:16:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:16:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:18:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:18:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:20:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:20:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:21:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[28-Feb-2019 13:21:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:28:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:30:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:36:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:37:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:40:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:43:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:44:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:46:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:47:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:48:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 12
+[01-Mar-2019 07:49:58 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 12
+[01-Mar-2019 07:51:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 13
+[01-Mar-2019 07:53:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 13
+[01-Mar-2019 07:54:46 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 14
+[01-Mar-2019 07:56:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 14
+[01-Mar-2019 07:57:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 07:59:01 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 08:05:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 11
+[01-Mar-2019 08:09:52 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 14
+[01-Mar-2019 08:10:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 14
+[01-Mar-2019 08:12:03 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 14
+[01-Mar-2019 08:13:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:14:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:15:57 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:19:02 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:20:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:21:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:23:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:24:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:27:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:28:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:47:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:50:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:52:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:55:11 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 08:55:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:14:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:14:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:17:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:17:32 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:20:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:20:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:22:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:22:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:23:53 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:23:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:25:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:25:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:26:44 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:26:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:27:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:27:49 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:44:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:44:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:46:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:46:10 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:48:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:48:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:50:23 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:50:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:51:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:51:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:53:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:53:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:55:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:55:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:57:15 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:57:16 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:58:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:58:18 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 09:59:59 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:00:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:02:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:02:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:03:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:10:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:10:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:11:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:11:55 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 16
+[01-Mar-2019 10:15:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:15:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:16:19 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:16:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:17:20 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:17:21 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 17
+[01-Mar-2019 10:19:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 12
+[01-Mar-2019 10:19:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 12
+[01-Mar-2019 10:20:41 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
+[01-Mar-2019 10:22:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
+[01-Mar-2019 10:24:35 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
+[01-Mar-2019 10:26:40 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
+[01-Mar-2019 10:29:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
+[01-Mar-2019 10:31:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/xxovek/public_html/22track/public_html/salesandroid/droplatlong.php on line 15
