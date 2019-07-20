@@ -82,10 +82,7 @@ function display_salesman()
 
             var sales_id = parseInt(data[i].Emp_id);
 						var uploadimg = '<img src='+data[i].profilePic+' class="img-circle" alt="user profile" width="40" height="30">';
-<<<<<<< HEAD
 						          
-=======
->>>>>>> a7b1adb90dac133f075d3bf8260ffec1c354dfe2
 					  $('#salesmaninfodata').append('<tr><td class="text-center">' + uploadimg + '</td><td class="text-center">' + data[i].fullname + '</td><td class="text-center">' + data[i].email + '</td><td class="text-center">'+ data[i].mobile +'</td><td class=" text-center">' + data[i].status +
 						'</td><td class=" text-center">' + data[i].address + '</td><td class="actions center"><a data-toggle="collapse" title="Edit Salesman Information" data-target="#hidecustomerfield"  onclick="updatesalesinfo(' + sales_id + ');"><i class="fa fa-edit"></i></a><a  title="Remove Salesman" name="submit"  id="' + sales_id + '" onClick="removesalesman(' + sales_id + ');" ><i class="fa fa-trash-o"></i></a><a title="Assign Work" name="submit"  id="' + sales_id + '" onClick="Assignwork(' + sales_id + ');" ><i class="fa fa-thumbs-up"></i></a><a title="Track Report" name="submit"  id="' + sales_id + '" onClick="trackReport(' + sales_id + ');" ><i class="fa fa-eye"></i></a></td></tr>');
         }
@@ -335,5 +332,5 @@ function showshopkeeperform()
 	$("#shoptable").hide();
 }
 function trackReport(salesId){
-  window.location.href = 'trackReport.php?'+salesId;
+  window.location.href = 'trackReport.php?id='+salesId;
 }
